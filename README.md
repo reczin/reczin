@@ -1,49 +1,110 @@
 <h1 align="center">Hi 👋, I'm Roger Eduardo Corrêa</h1>
-<h3 align="center">A passionate developer and BSI student from Brazil</h3>
+
+<h3 align="center">
+Software Developer | Full Stack | Automation & Backend
+</h3>
+
+<p align="center">
+Brazil 🇧🇷 • Information Systems Student • Building solutions through code
+</p>
 
 ---
 
-- 🎓 I completed my Technical Degree in IT at **IFC - Campus Camboriú**
-- 🎓 Currently studying **Bachelor of Information Systems (BSI)** at **UniAvan**
-- 💻 Focused on Full Stack Development, Automation and Problem Solving
-- 💬 Ask me about:  
-  **SQL, Java, JavaScript, Python, C, C++, C#, HTML, CSS, TypeScript, n8n**
-- 📫 How to reach me: **rec.regor@gmail.com**
+## 👨‍💻 About Me
+
+I'm a Software Developer passionate about building applications, APIs and automation solutions.
+
+- 🎓 Technical Degree in IT from **Instituto Federal Catarinense (IFC - Campus Camboriú)**
+- 🎓 Currently pursuing a **Bachelor's Degree in Information Systems at UniAvan**
+- 💻 Experience developing internal systems, automations and integrations
+- ⚙️ Interested in Backend Development, Software Architecture and Process Automation
+
+Currently working with software development, creating solutions that improve business processes through technology.
 
 ---
 
-## 🚀 Languages, Technologies & Skills
+## 💼 Professional Experience
+
+### Software Developer
+
+**GSCONSIG**
+
+- Development of internal systems and business solutions
+- Creation of process automation workflows using **n8n**
+- Backend development with **Node.js, TypeScript and Python**
+- Database modeling and management with **PostgreSQL and MySQL**
+- Linux server management and application deployments
+- CI/CD workflows using **GitHub Actions**
+- API integrations and system automation
+
+---
+
+## 🚀 Technologies & Skills
+
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FE5800?style=for-the-badge&logo=n8n&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🧰 Tools I Use
+## 📌 Featured Projects
 
-![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![Code Blocks](https://img.shields.io/badge/Code--Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
-![CodeSpace](https://img.shields.io/badge/CodeSpace-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)
+### Task Manager API
+Full Stack application for task management.
+
+Features:
+- Authentication with JWT
+- REST API
+- User management
+- Task organization
+
+Technologies:
+Node.js • TypeScript • PostgreSQL • React
+
+---
+
+### ChronosConsorHub
+
+SaaS project focused on consórcio management.
+
+Technologies:
+Python • Django • PostgreSQL • Docker
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogercorrea&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogercorrea&layout=compact&theme=radical" width="47%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rogercorrea&show_icons=true&theme=radical" width="47%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogercorrea&layout=compact&theme=radical" width="47%"/>
+
 </div>
 
 ---
@@ -51,15 +112,13 @@
 ## 🔗 Contact Me
 
 <div align="center">
-  <a href="mailto:rec.regor@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/reczin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/reczin_?igsh=dW5nbmc4ZzY0ZjVh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</div>
 
----
+<a href="mailto:rec.regor@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/reczin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
