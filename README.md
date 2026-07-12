@@ -103,13 +103,13 @@ Python • Django • PostgreSQL • Docker
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rogercorrea&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reczin&theme=tokyonight"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rogercorrea&theme=tokyonight" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reczin&theme=tokyonight" width="45%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rogercorrea&theme=tokyonight" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reczin&theme=tokyonight" width="45%"/>
 
 </div>
 
