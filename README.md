@@ -101,9 +101,9 @@ Python • Django • PostgreSQL • Docker
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rogercorrea&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rogercorrea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rogercorrea&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rogercorrea&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="47%"/>
 
 </div>
 
